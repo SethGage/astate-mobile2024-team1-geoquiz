@@ -1,4 +1,4 @@
-import android.util.Log
+//import android.util.Log
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import com.example.geoquiz.R
